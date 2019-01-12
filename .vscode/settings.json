@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ratio": "cpp",
+        "string": "cpp",
+        "__locale": "c",
+        "iostream": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    }
+}
